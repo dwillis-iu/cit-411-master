@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Select Tip Percentage:"; ObjectID = "Cjp-Wa-yNZ"; */
+"Cjp-Wa-yNZ.text" = "Seleccione el porcentaje de propina:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fgi-n4-RbP"; */
+"Fgi-n4-RbP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aDw-kc-VKu"; */
+"aDw-kc-VKu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bky-1A-IfT"; */
+"bky-1A-IfT.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Amount:"; ObjectID = "fPs-iH-1hJ"; */
+"fPs-iH-1hJ.text" = "Cantidad total:";
+
+/* Class = "UILabel"; text = "Input Bill Amount:"; ObjectID = "nnP-RL-yxP"; */
+"nnP-RL-yxP.text" = "Introduzca la cantidad de la factura:";
+
+/* Class = "UILabel"; text = "Tip Amount:"; ObjectID = "wUm-ow-tfO"; */
+"wUm-ow-tfO.text" = "Cantidad de propina:";
